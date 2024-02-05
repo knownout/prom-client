@@ -1,5 +1,5 @@
 {
-	"name": "prom-client",
+	"name": "@knownout/prom-client",
 	"version": "15.1.0",
 	"description": "Client for prometheus",
 	"main": "index.js",
